@@ -21,7 +21,7 @@ class Point
 		
 		void display_point()
 		{
-			cout<<"\nThe point is "<<"("<< x <<","<< y 			<<")"<<endl;
+			cout<<"\nThe point is "<<"("<< x <<","<< y <<")"<<endl;
 		}
 		
 		
